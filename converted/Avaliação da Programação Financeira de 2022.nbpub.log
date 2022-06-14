@@ -1,0 +1,15 @@
+INFO:ipypublish:started ipypublish v0.10.12 at Wed May 11 17:30:18 2022
+INFO:ipypublish:logging to: C:\Users\Everton\OneDrive\Prefeitura\2022\Programação Financeira\jnb\converted\Avaliação da Programação Financeira de 2022.nbpub.log
+INFO:ipypublish:running for ipynb(s) at: Avaliação da Programação Financeira de 2022.ipynb
+INFO:ipypublish:with conversion configuration: latex_ipypublish_all
+INFO:nbmerge:Reading notebook
+INFO:ipypublish:finding conversion configuration: latex_ipypublish_all
+INFO:ipypublish:loading conversion configuration
+INFO:ipypublish:creating exporter
+INFO:ipypublish:creating template and loading filters
+INFO:ipypublish:creating process configuration
+INFO:ipypublish:running nbconvert
+INFO:root:adding ipub defaults to notebook
+INFO:root:splitting outputs into separate cells
+INFO:resolve_links:resolving external file paths in ipub metadata to: Avaliação da Programação Financeira de 2022.ipynb
+INFO:captions:extracting caption cells
